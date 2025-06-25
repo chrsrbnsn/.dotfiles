@@ -1,0 +1,6 @@
+2025-06-23 10:46:05.121 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-23 10:46:05.136 [info] Started local extension host with pid 7027.
+2025-06-23 10:46:05.175 [info] Started initializing default profile extensions in extensions installation folder. file:///home/chrs/.vscode-oss/extensions
+2025-06-23 10:46:05.331 [info] ComputeTargetPlatform: linux-x64
+2025-06-23 10:46:05.372 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/chrs/.vscode-oss/extensions
+2025-06-23 10:46:07.965 [info] [perf] Render performance baseline is 12ms
